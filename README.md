@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=""&color=006bed)
 
-<h3> :woman: &nbsp;Minhas informações </h3>
+<h3> :man: &nbsp;Minhas informações </h3>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
