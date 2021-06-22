@@ -36,4 +36,4 @@
 
 [![Linkedin: Guilherme Augusto](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-augusto-de-carvalho-785290208/)](https://www.linkedin.com/in/guilherme-augusto-de-carvalho-785290208/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guiaugustocarvalho@gmail.com)](mailto:guiaugustocarvalho@gmail.com)
-[![GitHub CarvGuilherme]( https://img.shields.io/github/followers/""?label=follow&style=social)](https://github.com/CarvGuilherme)
+[![GitHub: CarvGuilherme]( https://img.shields.io/github/followers/""?label=follow&style=social)](https://github.com/CarvGuilherme)
